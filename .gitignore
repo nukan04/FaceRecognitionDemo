@@ -1,0 +1,7 @@
+# .gitignore
+
+# Ignore virtual environment
+venv/
+
+# Ignore dlib directory
+dlib/
